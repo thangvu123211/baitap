@@ -1,2 +1,6 @@
 hello code
+<<<<<<< HEAD
 thang
+=======
+Loi
+>>>>>>> 98371efc57b539f07bc70f1f4cf9babc62b8c3d2
